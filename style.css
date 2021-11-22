@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+div{
+    border: 2px solid black;
+    text-align: center;
+
+}
+    
+
+
+.para{
+    font-size: 30px;
+
+}
+
+
+button{
+    background:none;
+    padding: 10px;
+    margin: 5px;
+}
+
+button:hover{
+    background: black;
+    color: white;
+}
+
+.img1{
+    display: none;
+    margin: 10px;
+}
+
+
+.Img{
+    background-color: black;
+    text-align: center;
+}
+
+.btn1{
+    border: none;
+    border: 1px solid gray;
+    color: gray;
+    
+}
+
+.btn1:hover{
+    background-color: lightgrey;
+}
+
+.contain{
+    text-align: center;
+    border: none;
+}
+
+
+
